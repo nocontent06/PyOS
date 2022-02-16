@@ -1,0 +1,40 @@
+V 1.0:
+
+Basic System Configuration
+Stability Improvements
+Bug Fixes
+
+
+V 1.0.1:
+
+Bug Fixes
+Performance Improvements
+Added new Functions to the OS
+
+
+V 1.1
+
+Revision of the OS
+Bug Fixes and Performance Improvements
+
+V 1.1.1
+
+Added ability to create a File and edit it
+
+V 1.2
+
+Added ability to create a Folder 
+
+V 1.2.1
+
+Added ability to remove Files and Folders
+
+V 1.2.2 
+
+Bug Fixes and Performance and Optimisation options
+
+V 1.2.3
+
+Bug Fixes: 
+    When you type in "1" at the main menu it exits the cpuinfo after 10 seconds
+    That's fixed now
