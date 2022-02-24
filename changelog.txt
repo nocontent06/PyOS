@@ -38,3 +38,15 @@ V 1.2.3
 Bug Fixes: 
     When you type in "1" at the main menu it exits the cpuinfo after 10 seconds
     That's fixed now
+
+V 1.2.4
+
+Bug Fixes:
+    When the OS starts, it shows a very long text 
+    Now it's a progress bar
+    
+V 1.2.5
+
+Bug Fixes: 
+    When you type in "help" at the main menu it exits the help-window after 10 seconds
+    That's fixed now
