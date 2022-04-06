@@ -327,7 +327,10 @@ while abort == 0:
                     time.sleep(0.5)
                     directory_mkdir = input("How would you call your Folder?: ")
                     path = "/Users/felix/OneDrive\ -\ HTL\ Villach/Documents/Proghrammieren/Python/OS"
-                    os.system(f"mkdir ./{directory_mkdir}")
+                    if os.name in ('nt', 'dos'):
+                      os.system(f"mkdir .\{directory_mkdir}")
+                    else:
+                      os.system(f"mkdir ./{directory_mkdir}")
                     print(f"Successfully created {directory_mkdir}!")
                     time.sleep(1)
                 else:
