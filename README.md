@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @nocontent06
-- 👀 I’m interested in developing with Python, JS, and more
-- 🌱 I’m currently learning Developing ;)
-- 💞️ I’m looking to collaborate on Nothing :(
-- 📫 How to reach me: send an email! (nocont06@gmail.com) I'll read everything!!
+PyOS - A TUI written in Python!
 
-<!---
-nocontent06/nocontent06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current Compatibility: Python 3.0+ (not tested in 2.7 and lower!)
+
+
+Download the .exe / .app.zip
+
+On Windows: Install requirements.txt -> 'python -m pip install -r requirements.txt' 
+On Mac: 'python3 -m pip install -r requirements.txt'
+
+Create an Issue when you find a Bug.
+Or join my Discord Server:
+https://discord.gg/hyTP8ynDAz
+
+Bye! ✌
